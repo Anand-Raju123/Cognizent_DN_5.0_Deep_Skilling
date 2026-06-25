@@ -22,7 +22,7 @@ insert into customers values ( 2,
                                5000,
                                'FALSE' );
 insert into customers values ( 3,
-                               'Nandhini',
+                               'Balasri',
                                70,
                                25000,
                                'FALSE' );
